@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-### ❗ 免责声明
+# ❗ 免责声明
 # 本工具仅用于学习和研究目的。请遵守Bilibili的使用条款，不要滥用此工具。开发者对使用此工具造成的任何后果不承担责任。
 
 Bilibili Data Tool 是一个强大的桌面应用程序，用于爬取Bilibili UP主的视频信息并导出为Excel文件。它提供了直观的用户界面，让用户能够轻松获取UP主的视频列表（BVID）并导出详细的视频信息。
